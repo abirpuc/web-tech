@@ -1,0 +1,14 @@
+.carousel-text{
+    position: absolute;
+    left: 26%;
+    top: 30%;
+    text-align:center;
+}
+@media only screen and (max-width:412px) {
+    .carousel-text{
+    position: absolute;
+    left: 16%;
+    top: 10%;
+    text-align:center;
+}
+}
