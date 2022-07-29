@@ -9,6 +9,10 @@ i{
     height: 30px;
     width: 30px;
   }
+
+.bgcolor{
+    background-color: #F4FAFD;
+}
 @media only screen and (max-width:412px) {
     .carousel-text{
     position: absolute;
